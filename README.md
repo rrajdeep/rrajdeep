@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my information are available at **[My Portfolio](https://rrajdeep.github.io/cv)**
+- 👨‍💻 All of my information is available at **[My Portfolio](https://rrajdeep.github.io/cv)**
 
 - 📫 How to reach me **rrajdeep@zohomail.in**
 

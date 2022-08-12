@@ -4,15 +4,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently pursuing Full Stack Development Career Program from **Testbook.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **node.js.**
 
 - 👨‍💻 All of my information is available at **[My Portfolio](https://rrajdeep.github.io/cv)**
 
-- 📫 How to reach me **rrajdeep@zohomail.in**
+- 📫 How to reach me **rajdeeprathore.ee@gmail.com**
 
 - ⚡ Hobbies **I love reading novels and making sketches**
 

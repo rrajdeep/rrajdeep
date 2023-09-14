@@ -1,10 +1,9 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rajdeep</h1>
-<h3 align="center">I'm a Web Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m working as Full Stack Developer.
+- 🔭 I’m a Full Stack Developer.
 
 - 🌱 I’m currently learning **Python.**
 

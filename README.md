@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing Full Stack Development Career Program from **Skill Academy** by **Testbook.**
+- 🔭 I’m working as Full Stack Developer.
 
-- 🌱 I’m currently learning **REACT.JS.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my information is available at **[My Portfolio](https://rrajdeep.github.io/cv)**
 
